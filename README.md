@@ -1,14 +1,73 @@
 ####django-admin-customization
 
 
-used to represent how to use Django admin site functions.
+*italic*   **bold**
+_italic_   __bold__
 
-* This is a bulleted list.
-* It has two items, the second
-  item uses two lines.
+An [example](http://url.com/ "Title")
+An [example][id]. Then, anywhere
+else in the doc, define the link:
 
-1. This is a numbered list.
-2. It has two items too.
+[id]: http://example.com/  "Title"
 
-#. This is a numbered list.
-#. It has two items too.
+![alt text](/path/img.jpg "Title")
+![alt text][id]
+
+[id]: /url/to/img.jpg "Title"
+Header 1
+========
+
+Header 2
+--------
+
+# Header 1 #
+
+## Header 2 ##
+
+###### Header 6
+
+1.  Foo
+2.  Bar
+
+*   A list item.
+
+    With multiple paragraphs.
+
+*   Bar
+
+*   Abacus
+    * answer
+*   Bubbles
+    1.  bunk
+    2.  bupkis
+        * BELITTLER
+    3. burper
+*   Cunning
+
+> Email-style angle brackets
+> are used for blockquotes.
+
+> > And, they can be nested.
+
+> #### Headers in blockquotes
+>
+> * You can quote a list.
+> * Etc.
+
+`<code>` spans are delimited
+by backticks.
+
+You can include literal backticks
+like `` `this` ``.
+
+
+This is a normal paragraph.
+
+    This is a preformatted
+    code block.
+
+---
+
+* * *
+
+- - - -
