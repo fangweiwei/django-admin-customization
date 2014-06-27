@@ -10,10 +10,10 @@ else in the doc, define the link:
 
 [id]: http://dailydropcap.com/images/N-3.jpg "Title"
 
-![alt text](/path/img.jpg "Title")
+![alt text](http://dailydropcap.com/images/N-3.jpg "Title")
 ![alt text][id]
 
-[id]: /url/to/img.jpg "Title"
+[id]: http://dailydropcap.com/images/N-3.jpg "Title"
 Header 1
 ========
 
