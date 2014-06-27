@@ -4,11 +4,11 @@
 *italic*   **bold**
 _italic_   __bold__
 
-An [example](http://url.com/ "Title")
+An [example](http://dailydropcap.com/images/N-3.jpg "Title")
 An [example][id]. Then, anywhere
 else in the doc, define the link:
 
-[id]: http://example.com/  "Title"
+[id]: http://dailydropcap.com/images/N-3.jpg "Title"
 
 ![alt text](/path/img.jpg "Title")
 ![alt text][id]
