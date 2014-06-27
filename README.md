@@ -8,11 +8,7 @@ An [example](http://dailydropcap.com/images/N-3.jpg "Title")
 An [example][id]. Then, anywhere
 else in the doc, define the link:
 
-[id]: http://dailydropcap.com/images/N-3.jpg "Title"
-
-![alt text](http://dailydropcap.com/images/N-3.jpg "Title")
 ![alt text][id]
-
 [id]: http://dailydropcap.com/images/N-3.jpg "Title"
 Header 1
 ========
